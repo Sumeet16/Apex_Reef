@@ -151,23 +151,9 @@ Built to:
 
 ## 📌 Future Improvements
 
-- OTA firmware updates
+- Add Temperature Sensor
 - TLS-secured MQTT
-- InfluxDB + Grafana integration
-- Power-based automation rules
-- Custom Home Assistant Lovelace cards
+- Improve Power Failure Logic 
 
 ---
 
-## 👤 Author
-
-**Sumeet Yadav**  
-📍 Canada  
-💻 IoT | Embedded Systems | Home Assistant | DevOps  
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub  
-Feel free to fork, modify, or contribute!
